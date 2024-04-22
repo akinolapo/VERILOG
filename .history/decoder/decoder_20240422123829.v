@@ -2,7 +2,7 @@
 //4 AND gates on the output
 //2x 1-to-2 Line Decoders
 
-module decoder2to4(A, D);
+module decoder1to4(A, D);
 
 input [1:0] A;
 output [3:0] D;
